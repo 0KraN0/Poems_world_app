@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        android:title="Главная" />
+    <item
+        android:id="@+id/nav_poems"
+        android:icon="@drawable/ic_book"
+        android:title="Каталог" />
+    <item
+        android:id="@+id/nav_favorites"
+        android:icon="@drawable/ic_heart_outline"
+        android:title="Избранное" />
+</menu>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Поэтический мир</string>
+    <string name="nav_home">Главная</string>
+    <string name="nav_poems">Каталог</string>
+    <string name="nav_favorites">Избранное</string>
+    <string name="search_hint">Поиск по стиху или автору...</string>
+    <string name="add_note_hint">Ваша заметка</string>
+    <string name="btn_save_note">Сохранить заметку</string>
+    <string name="btn_add_note">Добавить заметку</string>
+    <string name="btn_edit_note">Изменить заметку</string>
+    <string name="btn_delete_note">Удалить</string>
+    <string name="delete_note_title">Удалить заметку?</string>
+    <string name="delete_note_message">Данное действие необратимо. Вы действительно хотите удалить заметку к стихотворению?</string>
+    <string name="featured_today">Произведение дня</string>
+    <string name="favorite_notification_channel_name">Закладки</string>
+    <string name="favorite_notification_channel_desc">Уведомления об операциях добавления произведений в закладки</string>
+    <string name="favorite_notification_title">Сохранено в избранное</string>
+    <string name="favorite_notification_text">Произведение «%s» успешно занесено в ваши закладки.</string>
+</resources>
