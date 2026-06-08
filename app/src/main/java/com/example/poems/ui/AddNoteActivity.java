@@ -29,7 +29,7 @@ public class AddNoteActivity extends AppCompatActivity {
             String resultText = editText.getText().toString();
             Intent resultIntent = new Intent();
             resultIntent.putExtra("NOTE_TEXT", resultText);
-            setResult(RESULT_OK, resultIntent); // Возврат результата вызывающему экрану [4, 19]
+            setResult(RESULT_OK, resultIntent); // Возврат результата вызывающему экрану
             finish();
         });
     }
